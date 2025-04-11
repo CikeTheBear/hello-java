@@ -1,3 +1,4 @@
+package CikeTheBear;
 // In this file we are going to do some exercises in Java.
 
 
