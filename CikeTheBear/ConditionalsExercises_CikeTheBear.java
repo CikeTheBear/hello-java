@@ -1,11 +1,11 @@
-package basic.c04_conditionals;
+package CikeTheBear;
 
 /*
 Clase 3 - Strings, Condicionales y Arrays (17/04/2025)
 Vídeo: https://www.twitch.tv/videos/2436086584
 */
 
-public class ConditionalsExercises {
+public class ConditionalsExercises_CikeTheBear {
 
     public static void main(String[] args) {
 

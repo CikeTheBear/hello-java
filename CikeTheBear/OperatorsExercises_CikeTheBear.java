@@ -1,11 +1,11 @@
-package basic.c02_operators;
+package CikeTheBear;
 
 /*
 Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
 Vídeo: https://www.twitch.tv/videos/2428998601
 */
 
-public class OperatorsExercises {
+public class OperatorsExercises_CikeTheBear {
 
     public static void main(String[] args) {
 
